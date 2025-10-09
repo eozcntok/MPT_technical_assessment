@@ -1,4 +1,4 @@
-# MPT_technical_assessment
+# MPT Technical Assessment
 
 The main code for this project is technical_assessment_MPT.ipynb. It performs the following tasks:
   1. Downloads vacancy data from the ONS.
